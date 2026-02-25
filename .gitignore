@@ -6,13 +6,24 @@ __pycache__
 
 .idea
 
-examples/iris*
-examples/trainer_*
+iris*
+trainer_*
 
 .DS_Store
 
 testing/
+immigration
+immigration_small
 
 be_great.egg-info/
 
 ../be_great.egg-info/
+
+.venv
+
+data/first_500k.csv
+data/full.csv
+data/cutoff.csv
+data/random.csv
+
+immigration_samples.csv
